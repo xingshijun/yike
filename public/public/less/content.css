@@ -1,0 +1,61 @@
+
+.body .content{
+    font: 100% Helvetica, Arial, sans-serif;
+    /*font-family: "adobe-clean","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+}
+.body .content #header {
+    margin: 10px 10px 0 10px;
+}
+
+.body .content #title {
+    margin-bottom: .5em;
+    color: #2f2f2f;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.body .content p {
+    margin: 1em 0;
+}
+.body .content .info {
+    color: #c0c0c0;
+    font-size: 90%;
+}
+.body .content a:link, .body .content a:visited, .body .content a:hover, .body .content a:focus, .body .content a:active {
+    color: #21bba6;
+    background: 0;
+}
+.body .content a:visited {
+    color: #669;
+    text-decoration: none;
+}
+.body .content a:link {
+    color: #37a;
+    text-decoration: none;
+}
+.body .content a {
+    display: block;
+    text-decoration: none;
+    cursor: pointer;
+}
+.body .content a img {
+    border-width: 0;
+    vertical-align: middle;
+}
+.body .content fieldset, img {
+    border: 0;
+}
+.body .content img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+
+.body .content #content {
+    font-size: 100%;
+}
+.body .content #footer {
+    margin: 0 10px 10px 10px;
+}
